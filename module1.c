@@ -7,6 +7,6 @@ void func1(void)
     int a = 0;
 
     /* Do some stuff */
-    a = a + 1;
+    a = a + 2;
     
 }
